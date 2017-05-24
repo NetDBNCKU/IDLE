@@ -8,21 +8,21 @@ Researchers and scientists have been using crowdsourcing platforms to collect la
 
 ## Manual
 
-### Data Ingestor
+### Data Ingestion
 
-![Data Ingestor](./Step1.png)
+![Data Ingestion](./Step1.png)
 
-### Configure MTurk
+### Crowdsourcing Job Configuration
 
-![Configure MTurk](./Step2.png)
+![Crowdsourcing Job Configuration](./Step2.png)
 
-### Review Job Setting
+### Crowdsourcing Job Creation
 
-![Review Job Setting](./Step3.png)
+![Crowdsourcing Job Creation](./Step3.png)
 
-### Dashboard
+### Stats Reporting
 
-![Dashboard](./Dashboard.png)
+![Stats Reoprting](./Dashboard.png)
 
 ## License
 
